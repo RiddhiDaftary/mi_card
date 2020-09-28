@@ -4,6 +4,8 @@
 
 Mi Card is a personal business card.
 
+![Finished App](https://github.com/RiddhiDaftary/mi_card/blob/master/Riddhi%20Shah.jpeg)
+
 ## What I learned
 
 * How to create Stateless Widgets
